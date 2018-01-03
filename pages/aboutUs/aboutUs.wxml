@@ -1,0 +1,22 @@
+<view class="f1">
+    <image src='../../img/logo.png' mode='widthFix' style='width:80rpx'></image>
+    <view style='margin:20rpx 0'>北京博信科技网络有限公司</view>
+    <view>网站建设知名品牌</view>
+</view>
+<view class="f2">
+  <image src='../../img/map-min.png' mode='widthFix' style="width:750rpx"></image>
+   <view class="f1-b">
+        <view class="f1-item">
+            <text class="big">5</text>
+            <text>年服务经验</text>
+        </view>
+        <view class="f1-item">
+            <text class="big">564</text>
+            <text>家客户选择</text>
+        </view>
+        <view class="f1-item">
+            <text class="big">73</text>
+            <text>个品牌与行业领袖</text>
+        </view>
+    </view>
+</view>

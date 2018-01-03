@@ -1,0 +1,16 @@
+<view class="f1">
+    <image src='../../img/logo.png' mode='widthFix' style='width:80rpx'></image>
+    <view style='margin:20rpx 0'>北京博信科技网络有限公司</view>
+    <view>网站建设知名品牌</view>
+</view>
+<view class="li">
+  公司官网
+  <text>www.boxinid.com</text>
+</view>
+<view class="li" bindtap='phone' >
+  加盟热线:
+  <text>13520755588</text>
+</view>
+<view class="li">
+  公众号
+</view>

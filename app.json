@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/aboutUs/aboutUs",
+    "pages/lianxi/lianxi"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#333",
+    "navigationBarTitleText": "博信欢迎您",
+    "navigationBarTextStyle": "#fff"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "官网首页",
+        "iconPath": "img/index.png",
+        "selectedIconPath": "img/on-index.png"
+      },
+      {
+        "pagePath": "pages/aboutUs/aboutUs",
+        "text": "关于我们",
+        "iconPath": "img/ud.png",
+        "selectedIconPath": "img/on-us.png"
+      },
+      {
+        "pagePath": "pages/lianxi/lianxi",
+        "text": "联系我们",
+        "iconPath": "img/lianxi.png",
+        "selectedIconPath": "img/on-lianxi.png"
+      }
+    ],
+    "backgroundColor": "#333",
+    "color": "#fff",
+    "borderStyle": "#fff",
+    "selectedColor": "#f16709"
+  }
+}

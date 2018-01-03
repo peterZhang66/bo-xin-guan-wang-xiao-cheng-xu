@@ -1,0 +1,5 @@
+.f1{display: flex;height: 300rpx;flex-direction: column;justify-content: center;align-items: center;padding: 40rpx 0;font-size: 16px;border-top: 1px solid #999}
+.f1-b{display: flex;justify-content: space-around;align-items: center;width: 100%;margin-top: 30rpx;position: absolute;left:0;top:100rpx;width: 750rpx;height: 140rpx}
+.f1-item{display: flex;flex-direction: column;justify-content: space-around;align-items: center;font-size: 26rpx;height: 100%}
+.f2{position:relative}
+.big{font-size: 40rpx;color: #8fc7ef}
