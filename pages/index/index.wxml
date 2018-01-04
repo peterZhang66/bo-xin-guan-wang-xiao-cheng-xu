@@ -2,7 +2,7 @@
   autoplay="true" interval="2000" duration="{{duration}}" indicator-active-color="rgba(255,255,255,0.5)" circular>
   <block >
     <swiper-item style="position:relative">
-      <image src="../../img/banner1.jpg" class="slide-image" mode='widthFix'/>
+      <image src="../../img/banner1.jpg" class="slide-image"/>
       <view class="word">
         <text>全网电商解决方案  </text>
         <text>SCHEME</text>
@@ -12,7 +12,7 @@
       </view>
     </swiper-item>
     <swiper-item style="position:relative">
-      <image src="../../img/banner2.jpg" class="slide-image" mode='widthFix'/>
+      <image src="../../img/banner2.jpg" class="slide-image"/>
       <view class="word">
         <text>先入为主，布局未来</text>
         <text>LAYOUT</text>
@@ -22,7 +22,7 @@
       </view>
     </swiper-item>
     <swiper-item style="position:relative">
-      <image src="../../img/banner3.jpg" class="slide-image" mode='widthFix'/>
+      <image src="../../img/banner3.jpg" class="slide-image"/>
       <view class="word">
         <text>独有的设计分格</text>
         <text>DESIGN</text>
@@ -34,7 +34,7 @@
   </block>
 </swiper>
 <view class="show1"  style="position:relative">
-  <image src='../../img/img1.jpg' mode='widthFix' style='height:440rpx'></image>
+  <image src='../../img/img1.jpg' mode='widthFix'></image>
   <view class="word1">
         <view>
             <image src='../../img/ic1.png' mode='widthFix'></image>
@@ -48,13 +48,12 @@
       </view>
 </view>
 <view class="show1" style='background:red' style="position:relative">
-  <image src='../../img/img2.jpg' mode='widthFix'></image>
+  <image src='../../img/img2.jpg'  mode='widthFix'></image>
  <view class="word1">
-        <view style="width:100%">
+        <view>
             <image src='../../img/ic4.png' mode='widthFix' style='width:60rpx'></image>
             <image src='../../img/ic5.png' mode='widthFix' style='width:60rpx'></image>
             <image src='../../img/ic6.png' mode='widthFix' style='width:60rpx' ></image>
-            <image src='../../img/ic7.png' mode='widthFix' style='width:60rpx' ></image>
         </view>
         <view>HTML5 + CSS3 响应式布局</view>
         <view>卓越的浏览器兼容性</view>
@@ -63,7 +62,7 @@
     </view>
   </view>
 <view class="show1"  style="position:relative">
-  <image src='../../img/img3.jpg' mode='widthFix' style='height:440rpx'></image>
+  <image src='../../img/img3.jpg' mode="widthFix"></image>
   <view class="word1">
         <view>
             <image src='../../img/ic8.png' mode='widthFix' style='width:60rpx'></image>
